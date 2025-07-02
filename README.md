@@ -42,3 +42,6 @@ This project demonstrates the deployment of a responsive landing page on a live 
 - Connected via SSH:
   ```bash
   ec2-3-251-70-159.eu-west-1.compute.amazonaws.com
+## 🖼️ Screenshot
+
+![Landing Page Screenshot](screenshot.png)
