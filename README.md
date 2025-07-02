@@ -43,4 +43,9 @@ This project demonstrates the deployment of a responsive landing page on a live 
   ```bash
   ec2-3-251-70-159.eu-west-1.compute.amazonaws.com
 
+## 🖼️ Screenshot
+
+Here’s a preview of the landing page rendered in a browser:
+
+![Landing Page Screenshot](screenshot.png.png)
 
